@@ -1,0 +1,29 @@
+{
+  "name": "extract-bem",
+  "version": "1.0.0",
+  "description": "NPM Package that extract bem blocs' names from your HTML.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bem",
+    "html",
+    "extract"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pbelyaev/extract-bem.git"
+  },
+  "author": "Pavel Belyaev",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "htmlparser2": "^3.9.0",
+    "laravel-blade-parser": "^1.0.1",
+    "path": "^0.12.7"
+  }
+}
