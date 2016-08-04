@@ -35,7 +35,7 @@ var blocks = extractBEM({
 The output will be an object like this:
 ```json
 {
-    'filename-without-extension': ['block', 'some-block', 'someBlock'],
-    'another-file-without-extension': []
+    "filename-without-extension": ["block", "some-block", "someBlock"],
+    "another-file-without-extension": []
 }
 ```
