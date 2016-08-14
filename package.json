@@ -23,7 +23,7 @@
   "dependencies": {
     "fs": "0.0.2",
     "htmlparser2": "^3.9.0",
-    "laravel-blade-parser": "^1.0.5",
+    "laravel-blade-parser": "^1.*",
     "path": "^0.12.7"
   }
 }
