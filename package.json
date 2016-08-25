@@ -1,6 +1,6 @@
 {
   "name": "extract-bem",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "NPM Package that extract bem blocks' names from your HTML.",
   "main": "index.js",
   "directories": {
