@@ -1,5 +1,7 @@
 # Extract BEM NPM Package
 
+[![Build Status](https://travis-ci.org/pbelyaev/extract-bem.svg?branch=master)](https://travis-ci.org/pbelyaev/extract-bem)
+
 This package will help you to get BEM blocks from your HTML.
 
 Only elements with classes like this will apear in an output object:
